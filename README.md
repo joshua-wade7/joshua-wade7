@@ -1,5 +1,5 @@
-### Hi there 👋
 
+```javascript
 const getToKnowMe = {
 
  code: [JavaScript, HTML, CSS],
@@ -20,7 +20,7 @@ const getToKnowMe = {
  currentlyLearning: ["Material UI"],
  wantsToLearn: ["Docker", "Tailwind", "AWS"]
 };
-
+```
 
 <!--
 **joshua-wade7/joshua-wade7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
