@@ -17,7 +17,7 @@ const getToKnowMe = {
  
  databases: ["MongoDB", "mySQL"],
 
- currentlyLearning: ["Material UI"],
+ currentlyLearning: ["Material UI", "Azure"],
  wantsToLearn: ["Docker", "Tailwind", "AWS"]
 };
 ```
